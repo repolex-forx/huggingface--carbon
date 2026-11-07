@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/carbon/commit/4ca3ce3e5c55e5821d6068bac5c6e3806027a26f",
       "git:hexsha": "4ca3ce3e5c55e5821d6068bac5c6e3806027a26f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
