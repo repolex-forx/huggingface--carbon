@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "carbon",
+  "versions": [
+    {
+      "commit": "4ca3ce3e5c55e5821d6068bac5c6e3806027a26f",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:41:35.023974+00:00"
+    }
+  ]
+}
